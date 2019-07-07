@@ -4,7 +4,7 @@ https://github.com/CodeSeven/toastr
 
 https://codeseven.github.io/toastr/
 
-```
+```sh
 bower install toastr
 npm install --save toastr
 yarn add toastr
@@ -25,11 +25,9 @@ gem 'toastr-rails'
 @import "toastr";
 ```
 
-
 ```coffee
 #= require toastr
 ```
-
 
 ```js
 toastr.info('Are you the 6 fingered man?')
